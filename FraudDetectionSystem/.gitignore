@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Project Specific
+*.pkl
+*.ipynb_checkpoints/
+.DS_Store
+
+# Logs
+*.log
