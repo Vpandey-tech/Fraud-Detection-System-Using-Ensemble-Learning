@@ -1,0 +1,98 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Security - NEVER COMMIT THESE!
+kaggle.json
+*.key
+*.pem
+*_credentials.json
+.env
+.env.local
+
+# Model files - PUSH THESE! (They prove your work)
+# Models are essential for the project to run
+# Uncomment lines below ONLY if models are too large (>100MB)
+# Then use Git LFS: git lfs track "*.pkl"
+# *.pkl
+# *.h5
+# *.pt
+# *.pth
+
+# Data files (Don't push raw data - too large)
+*.csv
+*.zip
+data/raw/
+data/processed/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Test coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Documentation builds
+docs/_build/
+
+# PyCharm
+.idea/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
