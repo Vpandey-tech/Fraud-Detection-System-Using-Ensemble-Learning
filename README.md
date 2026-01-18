@@ -1,3 +1,12 @@
+---
+title: Fraud Detection System
+emoji: 🛡️
+colorFrom: red
+colorTo: blue
+sdk: docker
+pinned: false
+---
+
 # 🛡️ Fraud Detection System Using Ensemble Learning
 
 **Author:** Vivek Pandey  
