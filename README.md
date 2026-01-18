@@ -13,6 +13,7 @@ pinned: false
 **Version:** 2.0 (Production-Ready)  
 **Tech Stack:** Python | FastAPI | Streamlit | XGBoost | CTGAN
 
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-yellow)](https://huggingface.co/spaces/sanketDamre/Fraud-Detection-System)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-green.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)

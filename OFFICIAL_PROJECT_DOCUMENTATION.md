@@ -3,6 +3,7 @@
 **Author:** Vivek Pandey  
 **Version:** 2.0 (State-of-the-Art)  
 **Date:** January 2026
+**Live Demo:** [🤗 Try it on Hugging Face](https://huggingface.co/spaces/sanketDamre/Fraud-Detection-System)
 
 ---
 
